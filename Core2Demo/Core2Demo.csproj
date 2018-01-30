@@ -6,6 +6,7 @@
     <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
     <AssemblyVersion>1.1.0.0</AssemblyVersion>
     <FileVersion>1.1.0.0</FileVersion>
+    <StartupObject>Core2Demo.Program</StartupObject>
   </PropertyGroup>
 
   <ItemGroup>
